@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Clothes Suggester</string>
+    <string name="baghdad">Baghdad</string>
+    <string name="_29april">29April</string>
+    <string name="suggestion_for_today_weather">Suggestion For Today Weather</string>
+    <string name="temperature">temperature</string>
+</resources>
