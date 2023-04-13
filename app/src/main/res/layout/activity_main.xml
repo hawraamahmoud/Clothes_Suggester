@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/blue"
+    android:background="@drawable/imagebackground"
     tools:context=".ui.MainActivity">
     <TextView
         android:id="@+id/text_view_name_of_city"
@@ -72,7 +72,7 @@
 
     <ImageView
         android:id="@+id/imageOutfit"
-        android:layout_width="400dp"
+        android:layout_width="match_parent"
         android:layout_height="400dp"
         android:src="@drawable/imagewinter"
         app:layout_constraintBottom_toBottomOf="parent"
